@@ -1,0 +1,5 @@
+{
+    "${filter_name}": [
+        "${filter_policy}"
+    ]
+}

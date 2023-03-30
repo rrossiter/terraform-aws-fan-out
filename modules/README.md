@@ -1,4 +1,3 @@
-# terraform-aws-fan-out
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
